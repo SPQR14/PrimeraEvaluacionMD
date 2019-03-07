@@ -1,0 +1,6 @@
+1. ¿Qué tipo de inmueble es el de mayor/menor herencia/ venta?
+2. ¿Qué edificios de venden más caros en función de la edad del edificio?
+3. ¿En qué municipio se vendieron más pies² de construcción?
+4. ¿En qué municio se vende más terreno?
+5. ¿Qué municipio aporta más en impuestos a la ciudad en concepto de
+impuestos al momento de la venta?
